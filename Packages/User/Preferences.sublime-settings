@@ -1,0 +1,30 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_options": "subpixel_antialias",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_sidebar_tree_large": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_sidebar_tree_small": true,
+	"itg_sidebar_tree_xlarge": true,
+	"itg_sidebar_tree_xsmall": true,
+	"itg_small_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}
